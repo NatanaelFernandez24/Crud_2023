@@ -1,0 +1,7 @@
+Cada una de las letras de esta sigla corresponden a una acción en particular: Create (crear), Read (leer), Update (actualizar) y Delete (eliminar).
+
+El objetivo de realizar cada una de estas acciones es la de almacenar, organizar y clasificar los datos. Pero también funcionan para corregir los errores en la manipulación de información.
+La mayoría de las aplicaciones que utilizamos nos permiten añadir o crear nuevas entradas, buscar las existentes, realizar cambios en ellas o eliminarlas. Para ello, el CRUD ofrece muchas ventajas, entre ellas:
+
+Facilita el control de la seguridad para los distintos requisitos de acceso. Simplifica y facilita el diseño de la aplicación haciéndola más escalable.
+Tiene un mejor rendimiento en comparación con las sentencias SQL ad-hoc.
